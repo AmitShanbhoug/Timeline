@@ -5,6 +5,5 @@
 
 </div>
 
-![app-tree](./readme-assets/app-tree.png)
-
+Timeline to track research progress
 
